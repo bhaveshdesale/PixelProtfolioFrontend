@@ -1,0 +1,284 @@
+📌 START OF PROMPT
+
+Build me a stunning, high-quality, anime-themed + pixel-art portfolio website with a 3D design style.
+This website must NOT look AI-generated — it should feel hand-crafted, premium, and clean.
+Use subtle pale, muted color palettes (NO bright colors).
+Maintain perfect readability and layout even with pixel objects present.
+
+🎌 1. THEME + AESTHETIC REQUIREMENTS
+Anime Themes to Combine
+
+Death Note Theme (but rename it to something original such as “Bhavesh Note” or “Desale Note”)
+
+Demon Slayer Infinity Castle Theme (floating rooms, infinite halls, glowing pale red/purple tones)
+
+Pixel Art Theme (retro pixel environment blended with modern anime)
+
+Overall Style
+
+Dark + pale color scheme
+
+Soft glows, shadows, atmospheric feel
+
+Crisp typography
+
+Pixel-art characters, objects, borders (temporary placeholders—replaceable later)
+
+Smooth animations based on:
+
+floating 3D objects
+
+slow parallax motion
+
+scene transitions inspired by anime opening sequences
+
+The website must feel like:
+“Death Note × Infinity Castle × Pixel Art × Modern 3D Portfolio.”
+
+🔮 2. WEBSITE ENTRY EXPERIENCE (FIRST SCREEN)
+Landing Screen Requirements
+
+Entire screen themed as Death Note title page, but renamed to:
+"Bhavesh Note"
+
+Elegant handwritten gothic typeface
+
+Pale white-on-black palette
+
+A subtle falling feather or floating dust particle animation
+
+One central anime-style notebook that opens on click
+
+Click Interaction
+
+When the user clicks the notebook:
+➡ Transition into the main portfolio homepage with a smooth anime-like zoom-in + fade transition
+➡ Add a soft audio cue (a light Death Note-style piano note)
+
+🧑‍💻 3. MAIN HOMEPAGE CONTENT
+Hero Section
+
+Background: subtle Infinity Castle theme
+
+My Name: Bhavesh Desale (anime typography)
+
+Subtitle: "Android Developer | Full-Stack Learner | Creative Engineer"
+
+Floating pixel-art animations around me
+
+Replaceable placeholder pixel image of me
+
+Navigation Bar
+
+Home
+
+About
+
+Skills
+
+Projects
+
+Clubs App (demo section)
+
+Contact
+
+Use soft glow hover effects inspired by anime UI.
+
+🧩 4. PAGE SECTIONS (WITH DESIGN INSTRUCTIONS)
+About Section
+
+Minimal pale tones
+
+Pixel-based side illustration
+
+Soft scroll animations
+
+Clean readable text
+
+Skills Section
+
+3D styled cards
+
+Pixel-icons
+
+Hover animations (like floating upward slightly)
+
+Projects Section
+
+Mix of:
+
+pixel-styled frames
+
+anime screenshots
+
+Infinity Castle aesthetic background
+
+Projects shown in animated 3D cards rotating slightly on hover
+
+You can use placeholder pixel images & videos temporarily
+
+Clubs App Section
+
+Present my real project with:
+
+Pixel UI
+
+Clean mockups
+
+Soft neon border
+
+Contact Section
+
+Anime particles in the background
+
+Pixel mailbox icon
+
+Smooth glowing input fields
+
+🧭 5. RESPONSIVENESS
+
+The website MUST be fully responsive:
+
+Mobile → custom layout with stacked sections
+
+Tablet → optimized 2-column areas
+
+Desktop → full 3D + animations mode
+
+All pixel art must remain visible and NOT block readability
+
+Elements should automatically rearrange for perfect visibility
+
+🧱 6. 3D IMPLEMENTATION REQUIREMENTS
+
+Use a proper 3D setup (Bolt AI can generate the HTML/CSS/JS):
+
+Use Three.js or equivalent
+
+Use subtle:
+
+parallax
+
+depth layers
+
+floating objects
+
+rotating pixel cubes
+
+No heavy performance load
+
+Everything must blend visually with anime + pixel + Infinity Castle themes
+
+🎵 7. ANIME MUSIC INTEGRATION
+
+Add background music with:
+
+Soft instrumental Death Note-style track
+
+Auto-starts muted
+
+User can toggle sound on/off with a floating pixel-style music icon
+
+Must NOT autoplay with volume (only mute → unmute allowed)
+
+🌙 8. LIGHT + DARK MODE
+
+Include a theme toggle:
+
+Dark mode → default (anime-friendly)
+
+Light mode → pale color palette (NOT bright)
+
+Pixel objects recolor automatically
+
+Background animations adjust for visibility
+
+🔢 9. VISITOR COUNTER
+
+Include a real-time visitor counter:
+
+Animated pixel-style number roll
+
+Positioned in footer
+
+“Visited by X anime travelers so far”
+
+Use any API or simple local storage fallback
+
+🧱 10. SPECIAL BEHAVIOR FOR FUTURE UPDATES
+
+I will later upload:
+
+my own pixel images
+
+pixel videos
+
+Infinity Castle scene renders
+
+So structure the site so that:
+
+All images and videos are modular components
+
+Easy to replace assets
+
+Clear folder organization
+
+No hard-coded pixel art
+
+No bright colors allowed
+
+Smooth transition animations between replaced assets
+
+🎯 11. IMPORTANT FINAL RULES
+
+The website MUST NOT look AI-generated.
+
+Keep everything premium, neat, anime-inspired.
+
+Use only pale color tones + dark modes.
+
+Ensure all sections blend cleanly with pixel + anime style.
+
+Follow a carefully handcrafted aesthetic.
+
+Make the website feel like an interactive anime world with pixel hints.
+
+Full clean code and folder structure.
+
+Add proper animations and transitions.
+
+📌 END OF PROMPT
+⭐ What You Can Do Next (My Suggestions)
+1. Add Anime Music (You Already Mentioned)
+
+Death Note piano
+
+Infinity Castle ambience
+
+Mute/unmute icon in pixel style
+
+2. Add Character Mode
+
+Switch UI themes:
+
+L mode (light + clean minimal)
+
+Kira mode (dark + dramatic)
+
+Demon Slayer mode (Infinity Castle)
+
+3. Add Particle Animations
+
+Floating sparkles, feathers, papers, pixel dust.
+
+4. Add Page Transitions
+
+Make each section transition like anime episode cuts.
+
+5. Voice Line When Entering Website
+
+Soft whisper like “Welcome to Bhavesh Note” (optional).
+
+6. Add Achievements Section
+
+Anime badges unlocked by user interactions.

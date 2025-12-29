@@ -1,0 +1,100 @@
+itle: Adapt Website Colors, Text Style & UI to Provided Pixel-Based Videos (Human-Made Feel)
+
+I have now uploaded pixel-based videos for each section of my anime portfolio website.
+Your task is to adapt the entire website’s UI, color palette, fonts, and layout according to each specific video’s color scheme.
+
+🔥 Core Requirements
+
+Use the colors directly from each video to set:
+
+Section background tones
+
+Text colors
+
+Highlight colors
+
+Button colors
+
+Card colors
+Do NOT use bright or shiny colors.
+Use soft, pale, muted, theme-matching tones so the site looks hand-crafted, not AI-generated.
+
+Ensure pixel-video visibility
+
+Text must never clash with the videos.
+
+Avoid overlapping elements.
+
+Add subtle shadows / semi-transparent overlays ONLY when needed for readability.
+
+Keep the vibe clean and intentional.
+
+Keep the website’s overall themes intact
+
+Death Note (Bhavesh Note) opening page
+
+Infinity Castle (Demon Slayer) aesthetic for transitions & sections
+
+Pixel-style animations and elements remain
+
+Make sure the new colors blend with these themes
+
+No shiny or neon look
+
+The site must feel human-made
+
+Use minimalist, anime-inspired pale color palettes
+
+Prefer matte finishes, low-contrast gradients, grainy textures when needed
+
+Do NOT alter the layout structure drastically
+Only change:
+
+Colors
+
+Font themes
+
+Borders
+
+Shadows
+
+Overlays
+
+Backgrounds
+according to the videos I provided.
+
+Fonts
+
+Use clean anime-inspired serif or soft-rounded sans-serif
+
+Avoid futuristic neon fonts
+
+Make sure text remains readable over videos
+
+Responsiveness
+
+Re-test mobile and desktop views after applying video-based colors
+
+Ensure pixel videos scale smoothly
+
+Ensure text automatically adjusts for contrast based on background frame
+
+🎯 Goal
+
+Make the website look like a ** handcrafted anime-pixel portfolio ** where:
+
+Colors feel natural
+
+Videos define the aesthetic
+
+Text blends perfectly
+
+Nothing looks AI-generated or overly polished
+
+If you need the full combined prompt (from start to end), I can give that too, but this is the next step prompt based only on your latest requirement.
+
+If you want, I can also make:
+✔ A version for 3D frameworks like Three.js
+✔ A version for GSAP scroll animations
+✔ A version for adding ambient anime music
+✔ A version for theme toggle (Light / Dark / “Shinigami Mode”)

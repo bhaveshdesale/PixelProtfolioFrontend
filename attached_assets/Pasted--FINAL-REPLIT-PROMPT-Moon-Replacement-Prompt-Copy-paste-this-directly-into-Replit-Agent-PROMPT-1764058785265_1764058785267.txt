@@ -1,0 +1,76 @@
+✅ FINAL REPLIT PROMPT (Moon Replacement Prompt)
+
+Copy-paste this directly into Replit Agent:
+
+PROMPT START
+
+I have uploaded a pixel-based background video/image. In the background there is an existing moon (the one inside the red-circled area). I want you to remove or hide the original moon completely and replace it with my own custom moon component.
+
+🔧 Requirements:
+
+Replace the existing moon positioned in the top-right window area with my own moon component.
+
+My moon component must perfectly overlap the old moon location.
+
+It must blend into the pixel-art background, look natural, and feel like it was originally part of the art.
+
+DO NOT make it bright, glowing, shiny, or highlighted.
+
+It should look subtle, muted, and “hidden” so users discover it slowly.
+
+The original moon in the background should no longer be visible.
+
+Either hide it using CSS masking/overlay
+
+OR place my custom moon component exactly on top of it so it fully covers it.
+
+Positioning rules for my moon component:
+
+Fit inside the window frame exactly as shown in the screenshot.
+
+The size must be the same proportion as the original moon.
+
+Use pixel-perfect alignment so it looks like part of the wallpaper.
+
+No weird borders, blurs, or scaling issues.
+
+Behavior rules:
+
+My moon component should NOT float, animate, or glow.
+
+No hover effects unless I request later.
+
+It must visually integrate with the background.
+
+Code implementation rules:
+
+Adjust the component’s CSS position, top, right, transform, and z-index so it sits exactly in place.
+
+You can use absolute positioning relative to the HeroSection parent.
+
+Make sure the moon stays responsive and positioned correctly on desktop and mobile.
+
+Do not break the current layout.
+
+IMPORTANT:
+The final result should look like the moon was drawn as part of the original pixel-art image — not like a button or icon placed on top.
+
+📌 Target File
+
+The moon toggle component is currently located here:
+/components/MusicToggle.tsx (or /components/ThemeToggle.tsx depending on code)
+
+Replace the red-circled moon section of the background with my new moon component by adjusting whichever file controls that layout.
+
+📄 Reference Screenshot
+
+Use this screenshot as reference and replace the moon exactly where the red mark is:
+
+FILE PATH:
+/mnt/data/546845e5-7788-4646-818c-eb42e0781853.png
+
+Load this file to see where the moon is located and replace it accordingly.
+
+After doing these adjustments, provide me with the updated code and confirm that the moon blends perfectly into the pixel-art scene.
+
+PROMPT END

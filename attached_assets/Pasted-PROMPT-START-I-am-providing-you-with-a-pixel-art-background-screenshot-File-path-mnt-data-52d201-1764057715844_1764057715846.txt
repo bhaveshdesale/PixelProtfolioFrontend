@@ -1,0 +1,64 @@
+PROMPT START
+
+I am providing you with a pixel-art background screenshot.
+File path: /mnt/data/52d2017f-a84b-4c73-a326-9fcb1601973f.png
+
+In this screenshot, there is a moon icon button floating on top of the layout. I want you to replace the current yellow circular moon toggle button with my custom pixel-art moon from the background so that:
+
+🔧 KEY REQUIREMENTS
+
+The new moon toggle button must be positioned exactly inside the moon area shown in the provided screenshot, blending naturally with the pixel background so it feels like part of the scenery.
+
+Remove the shiny or glossy look — it should not look like a floating bright icon.
+
+It should look subtle, hidden, and integrated, so users feel like they “discover” it.
+
+The component must fully override the existing moon icon without breaking layout.
+
+Keep the light/dark theme toggle functionality, only replace design + position.
+
+Use pixel-based styling so it matches the background.
+
+Do NOT add any extra outlines, glows, bright borders, animations, or glossy effects.
+
+Make sure the toggle icon fits perfectly inside the window frame in the pixel-art video background.
+
+The final moon toggle should look like a natural part of the background, not like an overlay.
+
+The moon should maintain high visibility but natural blending—no neon colors, no shiny UI.
+
+🧩 Technical requirements
+
+The component should be built using the existing stack (Next.js + Tailwind + any components already in the project).
+
+Keep the MusicToggle and dark/light theme logic unchanged.
+
+Only modify styling, placement, and appearance of the moon icon.
+
+Ensure the new moon toggle is:
+
+responsive
+
+layered correctly using z-index
+
+positioned using either absolute or relative positioning based on the background container
+
+Preserve accessibility (aria-label: "Toggle Theme").
+
+🎯 Expected Output
+
+A new ThemeToggle or MoonToggle component that:
+
+uses my pixel moon
+
+overrides the current yellow moon
+
+blends into the background
+
+sits perfectly over the moon inside the window
+
+does not shine or stand out artificially
+
+keeps all functionality intact
+
+PROMPT EN

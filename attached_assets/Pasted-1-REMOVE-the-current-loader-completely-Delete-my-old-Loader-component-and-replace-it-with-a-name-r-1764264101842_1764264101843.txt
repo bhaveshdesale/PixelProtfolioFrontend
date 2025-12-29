@@ -1,0 +1,151 @@
+1. REMOVE the current loader completely
+
+Delete my old Loader component and replace it with a name-reveal intro animation exactly like the animation shown in my reference video (the video I will upload).
+
+Expected behavior:
+
+When the user opens the website:
+
+Instead of showing the loader,
+
+A pixel-style animated name reveal should play.
+
+The animation should reveal my name exactly like the reference video:
+
+Pixel fade-in, pixel build-up, or drawing animation
+
+Timing and pacing should match the reference video exactly.
+
+My full name must reveal in this exact format:
+“BHAVESH DESALE”
+
+After the name animation fully completes:
+
+The homepage should automatically fade-in.
+
+No scrolling should be possible during animation.
+
+No other UI should be visible until the animation finishes.
+
+Important Styling Notes:
+
+Use pixel-based typography (8-bit retro style).
+
+Avoid shiny/glossy AI-looking effects.
+
+Style should match the pixel videos I will provide.
+
+Keep colors muted, pale, and aesthetic — not bright.
+
+🎨 2. This animation must look 100% hand-crafted (not AI-generated)
+
+Keep the colors consistent with the pixel videos.
+
+Do NOT use bright neon colors.
+
+Background behind the name should be:
+
+Subtle pixel-noise,
+
+Or a static frame extracted from my provided videos.
+
+⚙️ 3. Technical requirements
+
+Implement the animation using one of the following (whichever fits best):
+
+Framer Motion
+
+GSAP
+
+Lottie with a JSON animation
+
+Canvas animation
+
+Three.js Sprite animation
+
+Any method is fine as long as it matches the reference animation exactly.
+
+Additional requirements:
+
+Animation must be smooth at 60fps.
+
+It must be mobile responsive.
+
+Do not preload the entire website at once.
+
+Only the home section loads after animation finishes.
+
+🧱 4. Component placement
+
+Insert this new intro animation before the following components:
+
+<Navigation />
+<HeroSection />
+<AboutSection />
+<SkillsSection />
+<InternshipSection />
+<ProjectsSection />
+<ClubsAppSection />
+<ContactSection />
+<Footer />
+<FloatingPixelObjects />
+<MusicToggle />
+<ParticleSystem />
+
+
+Homepage loads ONLY after animation completes.
+
+🪄 5. Logic flow
+Flow that must happen:
+
+User opens website
+
+Pixel-name animation starts
+
+“BHAVESH DESALE” fully reveals
+
+Animation holds for 0.5–1 second
+
+Smooth fade transition
+
+Homepage appears
+
+Everything else works normally
+
+📌 6. Do NOT modify any other design except where necessary
+
+DO NOT change pixel videos.
+
+DO NOT change backgrounds.
+
+DO NOT change the website theme.
+
+Only adapt typography and font colors to match the background videos I will provide.
+
+🎯 7. When implementing, ensure these rules:
+
+Keep the animation short (1.5–3 seconds).
+
+Use pixel-art easing styles (no modern smooth bezier curves).
+
+Use muted colors only.
+
+No extra glowing or shiny effects.
+
+Make sure it looks handmade, subtle, anime-pixel themed.
+
+📥 8. I will upload the reference video
+
+Once uploaded:
+
+Extract animation style
+
+Match timing
+
+Match reveal effect
+
+Reproduce EXACTLY
+
+Apply to “BHAVESH DESALE”
+
+PROMPT END

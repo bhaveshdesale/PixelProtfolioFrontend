@@ -1,0 +1,52 @@
+I am providing you a pixel-art background video/image where a character is sitting in a room and playing a video game on a TV.  
+Study the layout carefully. You must implement the following changes exactly:
+
+1) On the RIGHT-SIDE TV screen in the image, add a fully responsive component that perfectly covers the entire TV area.  
+   - It should blend naturally with the TV border (not shiny, not AI-looking).  
+   - It should feel like part of the original pixel image.  
+   - The TV component must be clickable.
+
+2) When the user CLICKS on the TV:
+   - Play a quick "anime flash-in / flash-out" effect (2D or pixel-FX style).  
+   - After the transition, open a MINI-WEBSITE overlay (full screen).  
+   - This mini-website should contain 3–4 CARDS only:
+        • Each card = one mystery puzzle or mini-game.  
+        • Only show: pixel image + the name of the game/puzzle. No text, no description.  
+   - When the user clicks on a card → open that puzzle/game in a new inner page/modal.
+
+3) Requirements for design:
+   - Keep pure pixel-art aesthetics.  
+   - Match colors with the provided background video.  
+   - No neon/glow, no AI shine.  
+   - Everything should look manually designed, cohesive, and retro.
+
+4) Technical instructions:
+   - Use Next.js + Three.js (if needed for effects).  
+   - The TV component should animate on hover with a subtle pixel shimmer.  
+   - The anime flash effect must be fast (300–500ms) and pixel-styled.  
+   - The mini-website overlay must fade/slide in aesthetically.  
+   - Make the TV click-interaction fully responsive on both desktop and mobile.
+
+5) Implementation details:
+   - Detect the exact TV frame coordinates from the provided image/video and align the component perfectly so it looks like part of the TV.  
+   - The clickable area should fully replace the original static TV scene visually.  
+   - The mini-website must include:
+        • Pixel background  
+        • Pixel font  
+        • Retro cursor  
+        • Smooth transitions  
+   - No loading screens.  
+   - Preload everything in background.
+
+6) Output:
+   - Update all necessary components/pages.  
+   - Provide clean, modular Next.js components for:
+        • TVInteraction.tsx  
+        • AnimeFlashEffect.tsx  
+        • MiniGameHub.tsx  
+        • GameCard.tsx  
+        • IndividualGamePage.tsx  
+   - Ensure the final result feels like a hidden "easter egg" on the website.
+
+This is a strict request. Do not simplify.  
+Integrate the new feature exactly inside the provided image’s TV region.

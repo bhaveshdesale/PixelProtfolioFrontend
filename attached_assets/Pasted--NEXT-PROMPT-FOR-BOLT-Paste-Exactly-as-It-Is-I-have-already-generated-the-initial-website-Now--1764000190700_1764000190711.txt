@@ -1,0 +1,208 @@
+⭐ NEXT PROMPT FOR BOLT (Paste Exactly as It Is)
+
+"I have already generated the initial website. Now I want you to completely upgrade and redesign it using the following instructions. Keep my existing structure but transform the visuals, animations, interactions, and layout. DO NOT give me a simple website; I want a premium 3D anime-themed, pixel-art-enhanced portfolio experience. Follow ALL instructions carefully:
+
+🔥 1. Overall Theme Upgrade
+
+Combine Death Note theme, Demon Slayer Infinity Castle aesthetics, and pixel-art styling.
+
+Use pale, muted, anime-accurate colors — no bright neon colors.
+
+Make the theme dark, mystical, elegant, similar to Death Note + Infinity Castle vibes.
+
+Add soft shadows, glowing outlines, and atmospheric mist effects.
+
+🔥 2. Intro Page (New Landing Screen)
+
+Create a cinematic intro screen:
+
+Title should be “Bhavesh Note” (in Death Note style typography).
+
+Add a subtle floating 3D book model (like Death Note) using Three.js.
+
+Add slow floating particles and mist (Infinity Castle style).
+
+Add dark piano background music (I will replace music later; add placeholder).
+
+Only when user clicks “Open”, it should transition to the main site with a smooth 3D door-opening animation.
+
+🔥 3. Main Portfolio Page
+
+After clicking "Open":
+
+Hero Section
+
+Show my name Bhavesh Desale in white/pale text.
+
+Add 3D floating cube/pixel items rotating around the name.
+
+Add subtle parallax movement on cursor.
+
+Profile + About Section
+
+Use placeholder pixel-art avatar (I will replace later).
+
+Add pixel-styled borders and soft glowing edges.
+
+Content should load one-by-one with animations, not all at once.
+
+Skills Section
+
+Use Infinity Castle walls pattern as a low-opacity background, not blocking text.
+
+Add 3D tiles that flip on hover to reveal skills.
+
+Use soft cream/gray colors, no heavy saturation.
+
+Projects Section
+
+Each project card is a 3D floating box that tilts when cursor moves.
+
+Add pixel-art corner decorations.
+
+Smooth fade-in animation for each card.
+
+🔥 4. Pixel Assets
+
+Use placeholder pixel art you generate internally for:
+
+Decorative borders
+
+Section separators
+
+Small icons
+
+Background overlays
+
+I will replace these pixel assets later, so keep them modular and easy to swap.
+
+🔥 5. Infinity Castle Visuals
+
+Introduce Demon Slayer Infinity Castle effects:
+
+Moving vertical light beams
+
+Rotating perspective background shifting slowly
+
+Reflective floor illusion
+
+Floating lantern particles
+
+Subtle mirror-like surfaces
+
+All must be lightweight and optimized.
+
+🔥 6. 3D Stack Requirement
+
+Use Three.js + GSAP + Tailwind + Canvas/WebGL wherever needed:
+
+Three.js → 3D objects (floating book, cubes, tiles, particles)
+
+GSAP → smooth transitions, staggered animations
+
+WebGL → depth, blur, atmospheric effects
+
+Tailwind → clean responsive styling
+
+Ensure all 3D content is FPS optimized.
+
+🔥 7. Loading & Interaction Animations
+
+Content loads progressively, not all at once.
+
+On cursor move →
+
+3D objects react
+
+Shadows shift
+
+Pixel particles move slightly
+
+Smooth fade-in + parallax on scroll.
+
+Use GSAP stagger timing for section entries.
+
+🔥 8. Responsive Design
+
+Website must be fully responsive:
+
+Mobile vertical layout
+
+Adjust 3D objects for small screens
+
+Reduce particle count for performance
+
+Pixel art must stay crisp (no blurring)
+
+🔥 9. Additional Features
+
+Add these features to the upgraded site:
+
+⭐ Death Note Music Integration
+
+Add audio player with toggle
+
+Autoplay only after user interacts
+
+I will replace the soundtrack later
+
+⭐ Light/Dark Theme Switch
+
+Dark theme = default (Death Note style)
+
+Light theme = pale parchment colors
+
+Switch must also recolor pixel assets and 3D elements
+
+⭐ Visitor Counter
+
+Add a small, stylish visitor count badge at the footer:
+
+Use local storage + simple API simulation
+
+Should look like a mystical number counter
+
+Fit theme perfectly
+
+🔥 10. What You Deliver
+
+You must deliver:
+
+Full upgraded HTML + CSS + JS files
+
+Three.js scenes
+
+GSAP animations
+
+Pixel placeholders
+
+Infinity Castle effects
+
+Bhavesh Note intro screen
+
+Fully responsive UI
+
+Full code ready to run on Replit (No errors!)
+
+This should NOT look like a basic website.
+This must look premium, anime-cinematic, 3D, and pixel-art infused.
+
+Follow all instructions EXACTLY."**
+
+🎉 DONE
+
+Paste the entire prompt above into Bolt/Replit and it will generate the upgraded version.
+
+🔮 Want Suggestions for Next Level Features?
+
+Here are some cool ideas:
+
+✔ Add L & Ryuk shadows appearing randomly
+✔ Add 3D Infinity Castle rooms users can explore
+✔ Add pixel versions of you walking around the site
+✔ Add “Write your name in Bhavesh Note” Easter Egg
+✔ Add typing animation like Light’s handwriting
+✔ Add Demon Slayer BGM toggle
+✔ Make the website load like anime opening sequence
+
+If you want, I can write the next-level prompt for adding all these features too.
