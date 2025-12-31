@@ -276,7 +276,7 @@ export function HeroSection({ onExplore }: HeroSectionProps) {
 
             {/* Tagline */}
             <p className="caption-text text-white/85 max-w-3xl mx-auto drop-shadow-md">
-              APP DEVELOPER | FULL-STACK DEVELOPER | SYSTEM DESIGN ENTHUSIAST
+              APP DEVELOPER | FULL-STACK DEVELOPER | CURIOUS LEARNER
             </p>
 
             {/* 🌐 SOCIAL ICONS WITH HOVER LABEL */}
@@ -294,11 +294,11 @@ export function HeroSection({ onExplore }: HeroSectionProps) {
                   icon: Linkedin,
                   link: "https://www.linkedin.com/in/bhavesh-desale-5823b7257/",
                 },
-                {
-                  label: "Discord",
-                  icon: MessageCircle,
-                  link: "https://discord.com",
-                },
+                // {
+                //   // label: "Discord",
+                //   icon: MessageCircle,
+                //   link: "https://discord.com",
+                // },
                 {
                   label: "LeetCode",
                   icon: Code2,

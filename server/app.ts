@@ -86,9 +86,9 @@ export default async function runApp(
   // this serves both the API and the client.
   // It is the only port that is not firewalled.
   const port = parseInt(process.env.PORT || '5000', 10);
-  server.listen(port, "127.0.0.1", () => {
-    log(`serving on port ${port}`);
-  });
+  server.listen(port, () => {
+  log(`serving on port ${port}`);
+});
   
   server.on("error", (err: any) => {
     if (err.code === "ENOTSUP" || err.code === "EADDRINUSE") {

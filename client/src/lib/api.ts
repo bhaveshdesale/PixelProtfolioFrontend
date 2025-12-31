@@ -1,5 +1,5 @@
 export async function fetchAndIncrementVisitors(): Promise<number> {
-  const res = await fetch("http://localhost:3000/api/visitors", {
+  const res = await fetch("https://pixelprotfoliobackend-6.onrender.com/api/visitors/", {
     method: "GET",
     credentials: "omit",
   });
@@ -13,3 +13,4 @@ export async function fetchAndIncrementVisitors(): Promise<number> {
   // backend returns a number directly
   return Number(data);
 }
+

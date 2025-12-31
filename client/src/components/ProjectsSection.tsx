@@ -374,8 +374,7 @@ const projects: Project[] = [
     description:
       "A real-time chat application with end-to-end encryption and device-sync messaging. Built with a strong focus on privacy and modern UX interactions.",
     tags: ["React", "Firebase", "WebSocket", "Tailwind CSS"],
-    liveLink: "https://secure-chat.demo",
-    sourceCode: "https://github.com/secure-chat",
+    sourceCode: "https://github.com/bhaveshdesale/ChatApp.git",
     image: "/projects/SecureChatApp.png",
   }
 

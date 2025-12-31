@@ -109,8 +109,6 @@ const MusicContext = createContext<MusicContextType | null>(null);
 
 const playlist = [
   "/assets/music/anime-1.mp3",
-  "/assets/music/anime-2.mp3",
-  "/assets/music/anime-3.mp3",
 ];
 
 export function MusicProvider({ children }: { children: React.ReactNode }) {

@@ -10,7 +10,7 @@ export function Footer() {
         <div className="flex flex-col items-center gap-12">
           
           {/* Visitor Counter */}
-          <VisitorCounter />
+          {/* <VisitorCounter /> */}
 
           {/* Branding */}
           <div className="text-center space-y-2">
